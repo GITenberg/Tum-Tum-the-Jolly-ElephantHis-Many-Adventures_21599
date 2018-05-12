@@ -1,0 +1,33 @@
+_repo: Tum-Tum-the-Jolly-ElephantHis-Many-Adventures_21599
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Tooker, Harriet H.
+    gutenberg_agent_id: '24803'
+    url: http://www.gutenberg.org/2009/agents/24803
+covers:
+- cover_type: archival
+  image_path: 21599-h/images/coverx.jpg
+creator:
+  author:
+    agent_name: Barnum, Richard
+    gutenberg_agent_id: '3820'
+    url: http://www.gutenberg.org/2009/agents/3820
+description: ''
+gutenberg_issued: '2007-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Circus -- Juvenile fiction'
+- !lcsh 'Elephants -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+title: 'Tum Tum, the Jolly Elephant
+
+  His Many Adventures'
+url: http://www.gutenberg.org/ebooks/21599
